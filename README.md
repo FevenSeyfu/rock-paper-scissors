@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL](https://github.com/FevenSeyfu/rock-paper-scissors)
+- Live Site URL: [Live site URL](https://your-live-site-url.com)
 
 ## My process
 
@@ -56,9 +56,6 @@ Recap of some of your major learnings
 }
 ```
 
-
-**Note: Delete this note and the content within this section and replace with your own learnings.**
-
 ### Continued development
 
 
@@ -67,9 +64,9 @@ Recap of some of your major learnings
 - [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [Feven Seyfu](https://fevenseyfu.tech/)
+- Frontend Mentor - [@FevenSeyfu](https://www.frontendmentor.io/profile/FevenSeyfu)
+- Linkedin - [Feven Seyfu](https://www.linkedin.com/in/fevenseyfu/)
 
 ## Acknowledgments
 

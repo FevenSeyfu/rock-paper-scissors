@@ -1,10 +1,16 @@
 import { useState } from 'react'
-import './App.css'
+import Header from './components/header/Header'
+import Main from './components/game/Main'
+import RulesBtn from './components/rules/RulesBtn'
 
 function App() {
 
   return (
-    <>App</>
+    <>
+      <Header />
+      <Main />
+      <RulesBtn />
+    </>
   )
 }
 
