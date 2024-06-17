@@ -1,6 +1,6 @@
 import React from "react";
 
-const footer = () => {
+const Footer = () => {
   return (
     <footer class="attribution">
       Challenge by{" "}
@@ -12,4 +12,4 @@ const footer = () => {
   );
 };
 
-export default footer;
+export default Footer;
